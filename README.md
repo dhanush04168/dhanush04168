@@ -1,7 +1,7 @@
 # Hi there, I'm Dhanush kanchanapalli 👋
 
 ### 🚀 About Me
-- 🔭 I’m currently working on Embedded Systems & C Programming
+- 🔭 I’m currently learning on Embedded Systems & C Programming
 - 🌱 Learning Microcontrollers, RTOS & IoT
 - 💬 Ask me about C, 8086, ESP8266
 - 📫 Reach me at: your-email@example.com
