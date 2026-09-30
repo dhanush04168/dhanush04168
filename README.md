@@ -3,7 +3,6 @@
 ### 🚀 About Me
 - 🔭 I’m currently learning on Embedded Systems & C Programming
 - 🌱 Learning Microcontrollers, RTOS & IoT
-- 💬 Ask me about C, 8086, ESP8266
 - 📫 Reach me at: your-email@example.com
 
 ---
