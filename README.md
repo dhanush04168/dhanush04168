@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently learning on Embedded Systems & C Programming
 - 🌱 Learning Microcontrollers, RTOS & IoT
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: dhanushkanchanapalli04@gmail.com
 
 ---
 
